@@ -87,6 +87,7 @@ body {
   justify-content: center;
   align-items: center;
   z-index: -3;
+  -webkit-z-index:-3;
 }
 
 @keyframes fadeIm-1
